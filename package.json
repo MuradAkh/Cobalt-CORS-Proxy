@@ -4,7 +4,7 @@
   "description": "cobalt cors proxy",
   "main": "app.js",
   "scripts": {
-    "test": "nodetest1"
+    "start": "node app.js"
   },
   "engines": {
     "node": "8.10.0"
