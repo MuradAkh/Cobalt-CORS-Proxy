@@ -2,7 +2,7 @@
   "name": "coablt-cors",
   "version": "1.0.0",
   "description": "cobalt cors proxy",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "nodetest1"
   },
