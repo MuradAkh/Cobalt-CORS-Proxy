@@ -1,0 +1,14 @@
+{
+  "name": "coablt-cors",
+  "version": "1.0.0",
+  "description": "cobalt cors proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodetest1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
